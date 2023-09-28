@@ -1,2 +1,8 @@
 # BinarySearchTree
 Example for Binary Search Tree using python and C with pointers.
+<h1 style="text-align:center; font-weight:bold;">Lista Encadeada, Alocação Dinâmica de Memória e Árvores Binárias.</h1>
+
+<p style="text-align:center">Resumo. Este meta-artigo passa uma revisão dos conteúdos aplicados pela matéria de Estrutura de Dados II, aplicada ao 8º período de Engenharia de Software, mostrando os temos de Listas Encadeadas, tais como as Simplesmente Encadeadas e as Duplamente Encadeadas, uma breve revisão sobre ponteiros em C, e por fim, revisaremos Árvores Binárias, neste caso optamos pela linguagem Python, mas colocaremos o exemplo em C também para podermos ter a visão da Árvore Binária aplicando a alocação dinâmica de memória (ponteiros).</p>
+
+<h2>Informações Gerais</h2>
+<p>Como mencionado no resumo deste artigo, abordaremos os temas de Estrutura de Dados, explicando um pouco dos princípios de Listas Simplesmente Encadeadas, Listas Duplamente Encadeadas, Alocação Dinâmica de Memória (Ponteiro) no caso de C e por fim explicaremos um pouco sobre Árvores Binárias, aplicaremos o código em python, porém a teoria se aplica a diversas linguagens, mostraremos no código a Árvore Binária de Busca, e percorreremos as mesmas em nos modos de pré-ordem, em ordem e pós-ordem, deixaremos também o código fornecido pelo professor Fabio Bettio, para que facilite a comparação entre os códigos desenvolvemos em Python e C.</p>

@@ -1,21 +1,3 @@
-# Com base em uma linguagem escolhida a equipe deve mostrar como o conteúdo ministrado em aula pode ser desenvolvido.
-
-# A atividade será avaliada com base em dois critérios:
-
-# - Apresentação da Equipe (que ocorrerá apenas no final do semestre)
-
-# - Escrita de um artigo no formato da SBC explicando o conteúdo passado em aula, de revisão de lista encadeada até Arvores Binárias.
-
-# Entrega 1 - (40% do 1 Bi) 20/09/23
-
-# - Documento no formato SBC com a apresentação inicial da proposta, qual a linguagem e uma introdução sobre o assunto, com referência.
-
-
-
-# Entrega 2 (40% do 2 Bi) 08/11/23
-
-# - Finalização do Artigo e Apresentação.
-
 class Node:
     def __init__(self, valor):
         self.valor = valor
